@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am a Software Engineer at Educative. Previously I was a Masters student & graduate research/teaching assistant at Koç University in the Department of Engineering, where I was being advised by Dr. Oznur Ozkasap. I received my B.S. degree in Computer Sciences in 2017 from the School of Science and Engineering (SSE) of Lahore University of Managment Sciences (LUMS), Pakistan, where I worked with Netwrok Group as an Undergraduate Research Assistant before moving to Illinois in 2017. Over there, I was working on the algorithms of distributed systems with Dr. Ajay Kshemkalyani. At the start of 2019, I left UIC and went to Koc University. After my graducation I joined Educative.
+I am a Software Engineer at Educative. Previously I was a Masters student & graduate research/teaching assistant at Koç University in the Department of Engineering, where I was being advised by Dr. Oznur Ozkasap. I received my B.S. degree in Computer Sciences in 2017 from the School of Science and Engineering (SSE) of Lahore University of Managment Sciences (LUMS), Pakistan, where I worked with Netwrok Group as an Undergraduate Research Assistant before moving to Illinois in 2017. Over there, I was working on the algorithms of distributed systems with Dr. Ajay Kshemkalyani. At the start of 2019, I left UIC and went to Koc University. After my graducation I joined Educative. I worked there as Lead Software Engineer for 1.5 years. Currently I am a Software Engineer II (Backend) at Careem.
 
 ### My Experience
 
